@@ -1,8 +1,8 @@
 import React from 'react';
-import designProjectImage from '../assets/images/design_project.jpg'; // Example image path
-import puzzleToyImage from '../assets/images/puzzle_toy.jpg'; // Example image path
-import digitalLibraryImage from '../assets/images/digital_library.jpg'; // Example image path
-import rabbitHouseImage from '../assets/images/rabbit_house.jpg'; // Example image path
+import designProjectImage from '../assets/images/design_project.jpg'; 
+import puzzleToyImage from '../assets/images/puzzle_toy.jpg'; 
+import digitalLibraryImage from '../assets/images/digital_library.jpg'; 
+import rabbitHouseImage from '../assets/images/rabbit_house.jpg'; 
 
 const Projects = () => {
   const projects = [

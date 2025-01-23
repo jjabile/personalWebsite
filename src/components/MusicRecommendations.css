@@ -1,0 +1,62 @@
+/* MusicRecommendations.css */
+.music-recommendation {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: Roboto, sans-serif;
+  }
+  
+  .recommendation-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .album-section {
+    flex: 0 0 100px;
+    margin-right: 20px;
+  }
+  
+  .cover-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .text-section {
+    flex: 1;
+  }
+  
+  .song-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .artist-name {
+    font-size: 1rem;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .recommendation-reason {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .waveform-section {
+    text-align: center;
+  }
+  
+  .waveform-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+  
